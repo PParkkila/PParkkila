@@ -6,7 +6,7 @@ I am a **Computer Science and Mathematics student at NC State** interested in th
 
 ### Selected work
 
-| Project | What I built | Technologies |
+| Project | What I built | Skills |
 | --- | --- | --- |
 | **[Glue4Glu](https://github.com/PParkkila/glue4glu)** | An explainable wearable-data research platform for exploring metabolic-health patterns. Awarded **2nd Place in the Applied AI Databricks track at WolfHacks 2026**. [Demo](https://www.youtube.com/watch?v=gFUiAyoaX4A) · [Devpost](https://devpost.com/software/glue4glu) | Python, FastAPI, Next.js, Databricks, Tiger Data |
 | **[ShapeBattle](https://github.com/PParkkila/ShapeBattle)** | An EEG-powered rock-paper-scissors game that predicts whether a player is imagining a circle, triangle, or square and shows its prediction on screen. Co-built for **NeuroTech 2026 at NC State**, it learns from each player’s corrections. | Fourier analysis (Welch), PCA, SVD, pairwise logistic regression, NeuroPawn, Python, Javascript |
